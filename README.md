@@ -17,3 +17,5 @@ One of the generated output files is automatically named "exampleSolutionScore15
 0 3 2 4
 0 2 2 2 
 0 0 2 1
+
+Sorry if the program isn't as pretty as it could be: I only gave myself 4 hours for the soulution.
